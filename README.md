@@ -4,9 +4,7 @@
 
 ## Installation
 
-Only supported on Node >=v4.2 because of promise support.
-
-If support is desired for earlier versions, a global promise polyfill is required.
+Only supported on Node >= 10
 
 ```bash
 $ npm install --save gitcloud
