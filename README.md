@@ -4,7 +4,7 @@
 
 ## Installation
 
-Only supported on Node >= 10
+Only supported on Node >= 12
 
 ```bash
 $ npm install --save gitcloud

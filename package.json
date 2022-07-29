@@ -17,7 +17,7 @@
   "author": "Goh Jia Hao",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.10"
   },
   "devDependencies": {
